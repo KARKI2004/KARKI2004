@@ -25,4 +25,4 @@ I’m a Computer Science student with Data Science concentration at Southeastern
 
 ## Connect
 - **Portfolio:** karkisuyog.com.np 
-- **LinkedIn:** https://www.linkedin.com/in/suyog-karki-285143326/
+- **LinkedIn:** /in/suyog-karki
