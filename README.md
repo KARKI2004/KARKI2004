@@ -24,5 +24,5 @@ I’m a Computer Science student with Data Science concentration at Southeastern
 - Building software that prioritizes correctness, clarity, and real constraints
 
 ## Connect
-- **Portfolio:** karkisuyog.com.np 
-- **LinkedIn:** /in/suyog-karki
+- **Portfolio:** https://karkisuyog.com.np/
+- **LinkedIn:** https://www.linkedin.com/in/suyogkarki314/
