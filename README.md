@@ -10,7 +10,7 @@ I’m a Computer Science student with Data Science concentration at Southeastern
 ## Research & Applied Work
 - Student Web Developer at SLU’s Internet Resource Center  
 - Evaluate the Lovable AI platform through AI-integrated and full stack application development  
-- Presented research at the ULL Undergraduate Research Conference (2025)
+- Presented research at the ULL Undergraduate Research Conference (2025), LSU Undergraduate Discover Day (2026)
 
 ## Projects
 - **Chatty!** — Real-time chat app with authentication, media sharing, and social features  
